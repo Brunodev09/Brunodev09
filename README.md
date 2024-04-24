@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bruno-mayol-giannotti-4a55b1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-mayol-giannotti-4a55b1154" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3796066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3796066" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/brunodev09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brunodev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/brunodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brunodev" height="30" width="40" /></a>
 
 </p>
 
@@ -51,7 +51,7 @@
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodev09&show_icons=true&locale=en&layout=compact&hide=c%2B%2B,c" alt="brunodev09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodev09&show_icons=true&locale=en&layout=compact&hide=c%2B%2B,c,html,makefile,objective-c,css,cmake,solidity,dockerfile" alt="brunodev09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunodev09&show_icons=true&locale=en" alt="brunodev09" /></p>
 
