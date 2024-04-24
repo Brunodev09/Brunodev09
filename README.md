@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bruno-mayol-giannotti-4a55b1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-mayol-giannotti-4a55b1154" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3796066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3796066" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/brunodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brunodev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/brunodev09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brunodev" height="30" width="40" /></a>
 
 </p>
 
