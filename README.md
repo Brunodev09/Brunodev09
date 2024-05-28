@@ -51,7 +51,7 @@
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodev09&show_icons=true&locale=en&layout=compact&hide=c%2B%2B,c,html,makefile,objective-c,css,cmake,solidity,dockerfile,c#" alt="brunodev09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunodev09&show_icons=true&locale=en&layout=compact&hide=c%2B%2B,c,html,makefile,objective-c,css,cmake,solidity,dockerfile,c%23" alt="brunodev09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunodev09&show_icons=true&locale=en" alt="brunodev09" /></p>
 
